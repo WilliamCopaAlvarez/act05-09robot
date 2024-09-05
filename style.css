@@ -1,0 +1,126 @@
+.antena{
+    background-color: rgb(99, 99, 99);
+    margin-left: 245px;
+    width: 10px;
+    height: 5px;
+}
+.head{
+    background-color: rgb(99, 99, 99);
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.eye1{
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    top: 20px;
+    left: 20px;
+    position: relative;
+}
+.eye2{
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    left: 60px;
+    position: relative;
+}
+.nose{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: white;
+    left: 35px;
+    position: relative;
+}
+
+
+.mouth{
+    background-color: white;
+    height: 10px;
+    width: 30px;
+    border-radius: 5px;
+    top: 5px;
+    left: 35px;
+    position: relative;
+}
+
+.cuello{
+    height: 10px;
+    width: 20px;
+    background-color: rgb(99, 99, 99);
+    position: relative;
+    margin-left: 240px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.body{
+    background-color: rgb(99, 99, 99);
+    height: 200px;
+    width: 150px;
+    margin-left: 175px;
+}
+
+.decoracion1, .decoracion2, .decoracion3 {
+    background-color: rgb(255, 255, 255); 
+    position: relative;
+}
+.decoracion1 {
+    width: 60px;
+    height: 20px;
+    top: 20px;
+    left: 45px;
+    border-radius: 10px;
+}
+.decoracion2 {
+    width: 40px;
+    height: 10px;
+    top: 50px;
+    left: 55px;
+    border-radius: 5px;
+}
+.decoracion3 {
+    width: 30px;
+    height: 30px;
+    top: 100px;
+    left: 60px;
+    border-radius: 50%;
+}
+
+.arm1{
+    background-color: rgb(99, 99, 99);
+    height: 140px;
+    width: 50px;
+    margin-left: 115px;
+    margin-top: -160px;
+    position: absolute;
+}
+.arm2{
+    background-color: rgb(99, 99, 99);
+    height: 140px;
+    width: 50px;
+    margin-left: 335px;
+    margin-top: -160px;
+    position: absolute;
+}
+
+
+.leg1{
+    background-color: rgb(99, 99, 99);
+    height: 100px;
+    width: 50px;
+    margin-left: 190px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.leg2{
+    background-color: rgb(99, 99, 99);
+    height: 100px;
+    width: 50px;
+    margin-left: 260px;
+    margin-top: 10px;
+    position: absolute;
+}
